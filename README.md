@@ -1,0 +1,2 @@
+# helinn
+Kendimi geliştiriyorum.
